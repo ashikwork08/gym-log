@@ -1,0 +1,3 @@
+[build]
+  publish = "Gym-app"
+  functions = "Gym-app/netlify/functions"
